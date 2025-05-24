@@ -10,17 +10,17 @@
 
     **Dataset Columns:**
 
-    |   Feature             |   Description                               |
-    |   :------------------ |   :----------------------------------------- |
-    |   id                  |   Patient ID                              |
-    |   age                 |   Age of the patient                        |
+    |   Feature             |   Description                                 |
+    |   :------------------ |   :-----------------------------------------  |
+    |   id                  |   Patient ID                                  |
+    |   age                 |   Age of the patient                          |
     |   gender              |   Gender of the patient                       |
     |   country             |   Country of residence                        |
-    |   diagnosis_date      |   Date of diagnosis                          |
-    |   cancer_stage        |   Stage of cancer                           |
+    |   diagnosis_date      |   Date of diagnosis                           |
+    |   cancer_stage        |   Stage of cancer                             |
     |   family_history      |   Family history of cancer (Yes/No)           |
     |   smoking_status      |   Smoking status of the patient               |
-    |   bmi                 |   Body mass index                           |
+    |   bmi                 |   Body mass index                             |
     |   cholesterol_level   |   Cholesterol level                           |
     |   hypertension        |   Hypertension (Yes/No)                       |
     |   asthma              |   Asthma (Yes/No)                             |
